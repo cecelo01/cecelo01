@@ -1,11 +1,11 @@
-### Olá!  Eu sou  Marcelo
+### Eu sou  Marcelo Vieira!
 
-- 🔭 **  ************************
+- 🔭 **************************
 - 🌱 Estudando Java
-- 👯 Eu sou o Marcelo
+- 👯 Objetivo aprender
 ##
 <br>
- <div align="center">
+<div align="center">
   <a href="https://github.com/cecelo01">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cecelo01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecelo01&layout=compact&langs_count=7&theme=dark"/>
